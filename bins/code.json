@@ -1,0 +1,121 @@
+{
+    "mf2000": {
+        "version": "1.19.01",
+        "current": true,
+        "url": "https://water.usgs.gov/nrp/gwsoftware/modflow2000/mf2k1_19_01.tar.gz",
+        "dirname": "mf2k.1_19",
+        "srcdir": "src"
+    },
+    "mf2005": {
+        "version": "1.12.00",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/MODFLOW-2005/MF2005.1_12u.zip",
+        "dirname": "MF2005.1_12u",
+        "srcdir": "src"
+    },
+    "mfnwt": {
+        "version": "1.1.4",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/MODFLOW-NWT/MODFLOW-NWT_1.1.4.zip",
+        "dirname": "MODFLOW-NWT_1.1.4",
+        "srcdir": "src"
+    },
+    "mfusg": {
+        "version": "1.5",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/MODFLOW-USG/mfusg1_5.zip",
+        "dirname": "mfusg1_5",
+        "srcdir": "src"
+    },
+    "zonbudusg": {
+        "version": "1.5",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/MODFLOW-USG/mfusg1_5.zip",
+        "dirname": "mfusg1_5",
+        "srcdir": "src/zonebudusg"
+    },
+    "mf6": {
+        "version": "6.0.4",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/MODFLOW-6/mf6.0.4.zip",
+        "dirname": "mf6.0.4",
+        "srcdir": "src"
+    },
+    "zbud6": {
+        "version": "6.0.4",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/MODFLOW-6/mf6.0.4.zip",
+        "dirname": "mf6.0.4",
+        "srcdir": "utils/zonebudget/src"
+    },
+    "swtv4": {
+        "version": "4.00.05",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/SEAWAT/swt_v4_00_05.zip",
+        "dirname": "swt_v4_00_05",
+        "srcdir": "source"
+    },
+    "mp6": {
+        "version": "6.0.1",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/MODPATH/modpath.6_0_01.zip",
+        "dirname": "modpath.6_0",
+        "srcdir": "src"
+    },
+    "mp7": {
+        "version": "7.2.001",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/MODPATH/modpath_7_2_001.zip",
+        "dirname": "modpath_7_2_001",
+        "srcdir": "source"
+    },
+    "mflgr": {
+        "version": "2.0.0",
+        "current": true,
+        "url": "https://water.usgs.gov/ogw/modflow-lgr/modflow-lgr-v2.0.0/mflgrv2_0_00.zip",
+        "dirname": "mflgr.2_0",
+        "srcdir": "src"
+    },
+    "mt3dms": {
+        "version": "5.3.0",
+        "current": true,
+        "url": "https://hydro.geo.ua.edu/mt3d/mt3dms_530.exe",
+        "dirname": "mt3dms5.3.0",
+        "srcdir": "src/true-binary"
+    },
+    "mt3dusgs": {
+        "version": "1.0.1",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/MT3D-USGS/mt3dusgs1.0.1.zip",
+        "dirname": "mt3dusgs1.0.1",
+        "srcdir": "src"
+    },
+    "vs2dt": {
+        "version": "3.3",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/VS2DI/vs2dt3_3.zip",
+        "dirname": "vs2dt3_3",
+        "srcdir": "include"
+    },
+    "triangle": {
+        "version": "1.6",
+        "current": true,
+        "url": "https://www.netlib.org/voronoi/triangle.zip",
+        "dirname": "triangle1.6",
+        "srcdir": "src"
+    },
+    "gridgen": {
+        "version": "1.0.02",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/GRIDGEN/gridgen.1.0.02.zip",
+        "dirname": "gridgen.1.0.02",
+        "srcdir": "src"
+    },
+    "zonbud3": {
+        "version": "3.01",
+        "current": true,
+        "url": "https://water.usgs.gov/water-resources/software/ZONEBUDGET/zonbud3_01.exe",
+        "dirname": "Zonbud.3_01",
+        "srcdir": "Src"
+    }
+}
